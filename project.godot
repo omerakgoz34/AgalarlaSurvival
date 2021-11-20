@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="Agalarla Survival"
+config/name="AgalarlaSurvival"
 run/main_scene="res://scenes/game.tscn"
 config/icon="res://icon.png"
 
